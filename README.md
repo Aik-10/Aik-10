@@ -8,7 +8,7 @@
 
 Hi, I'm Samuel, a Full Stack Developer 🚀 from Finland, currently, I'm a️ Freelancer 👨🏽‍💻
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif?cid=ecf05e47qljxxdazaqj2y3kcliuuf20x7w1tep1fwxvaz8rg&rid=giphy.gif" />
+ <img align="right" width="200px" alt="GIF" src="https://media1.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif?cid=ecf05e47qljxxdazaqj2y3kcliuuf20x7w1tep1fwxvaz8rg&rid=giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
