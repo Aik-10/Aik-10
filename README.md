@@ -33,14 +33,4 @@
 
 ------------
 
-<h3 align="center" style="margin-top: -42px;">
-  <span style="font-family: 'Lucida Console';">Github Statics</span>
-  <div style="display: flex; margin-top: -10px;">
-   <div style="margin:15px;">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&theme=onedark&hide_border=true&custom_title=Github Used Languages&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)</div>
-   <div style="margin:15px;">![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aik-10&show_icons=true&theme=onedark&hide_border=true&custom_title=Aik-10 Ultimate Stats)</div>
-  </div>
-</h3>
-
-------------
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AIK-10" alt="aik-10" /></p>
