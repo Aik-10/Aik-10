@@ -7,14 +7,6 @@
 
 ------------
 
-<h3 align="center" style="margin-top: -42px;">
-  <span style="font-family: 'Lucida Console';">Activity</span>
-</h3>
-<div style="display: flex; margin-top: -32px;">
-  <figure style="width: 50%; padding: 10px; border-radius: 25px;"><embed src="https://wakatime.com/share/@Lentokone/74fabe8a-3b0a-4e43-9118-3b9b6374d8b4.svg"></embed></figure>
-  <figure style="width: 50%; padding: 10px; border-radius: 25px;"><embed src="https://wakatime.com/share/@Lentokone/1b1f7e30-ffda-4f87-ae5c-26398ef98f57.svg"></embed></figure>
-</div>
-
 <h3 align="center" style="margin-top: -52px;">
   <span style="font-family: 'Lucida Console';">Languages and Tools</span>
 
@@ -34,3 +26,5 @@
 ------------
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AIK-10" alt="aik-10" /></p>
+
+<embed src="https://wakatime.com/share/@Lentokone/74fabe8a-3b0a-4e43-9118-3b9b6374d8b4.svg"></embed>
