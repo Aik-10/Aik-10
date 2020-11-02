@@ -14,10 +14,10 @@
 
 <div style="display: flex; margin-top: -32px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lentokone&hide_border=true&theme=highcontrast&title_color=#FFFFFF" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lentokone&hide_border=true&theme=vue&title_color=#FFFFFF" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&hide_border=true&theme=highcontrast&title_color=#FFFFFF" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&hide_border=true&theme=vue&title_color=#FFFFFF" />
     </a>
 </div>
 
