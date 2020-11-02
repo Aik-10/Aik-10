@@ -7,6 +7,20 @@
 
 ------------
 
+
+<h3 align="center" style="margin-top: -42px;">
+    <span style="font-family: 'Lucida Console';">Activity</span>
+</h3>
+
+<div style="display: flex; margin-top: -32px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lentokone&hide_border=true&theme=highcontrast&title_color=#FFFFFF" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&hide_border=true&theme=highcontrast&title_color=#FFFFFF" />
+    </a>
+</div>
+
 <h3 align="center" style="margin-top: -52px;">
   <span style="font-family: 'Lucida Console';">Languages and Tools</span>
 
@@ -16,15 +30,16 @@
     <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
     <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+    <img style="margin-left: 7px;" height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
     <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+    <img style="margin-left: 7px;" height="40" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png">
     <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+    <img style="margin-left: 7px;" height="40" src="https://malcoded.com/static/e5619b75c39bc5034c7c9ef9c8d8c42e/ba299/Typescript.png">
+    <img style="margin-left: 7px;" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+    <img style="margin-left: 7px;" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png">
   </p>
 </h3>
 
 ------------
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AIK-10" alt="aik-10" /></p>
-
-<embed src="https://wakatime.com/share/@Lentokone/74fabe8a-3b0a-4e43-9118-3b9b6374d8b4.svg"></embed>
