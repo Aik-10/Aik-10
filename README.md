@@ -2,7 +2,7 @@
   <i>Hey 👋🏽, I'm <a href="https://lentokone.online" targer="_blank">Samuel</a></i>
   <h6 style="margin-top: -14px; font-size: 10px;" align="center">A Full Stack Developer from Finland, currently, I'm a️ Freelancer.</h6>
   <h6 style="margin-top: -34px; font-size: 10px;" align="center">I'm currently learning <a href="https://www.gatsbyjs.com" targer="_blank">GatsbyJS</a>, <a href="https://www.typescriptlang.org" targer="_blank">Typescript</a> and <a href="https:/nodejs.org" targer="_blank">NodeJS</a>.</h6>
-  <h6 style="margin-top: -34px; font-size: 10px;" align="center">I'm <strong>18</strong> year old.</h6>
+  <h6 style="margin-top: -34px; font-size: 10px;" align="center">I'm <strong>19</strong> year old.</h6>
 </p>
 
 ------------
