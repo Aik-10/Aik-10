@@ -1,45 +1,50 @@
 <p align="center">
-  <i>Hey 👋🏽, I'm <a href="https://lentokone.online" targer="_blank">Samuel</a></i>
-  <h6 style="margin-top: -14px; font-size: 10px;" align="center">A Full Stack Developer from Finland, currently, I'm a️ Freelancer.</h6>
-  <h6 style="margin-top: -34px; font-size: 10px;" align="center">I'm currently learning <a href="https://www.gatsbyjs.com" targer="_blank">GatsbyJS</a>, <a href="https://www.typescriptlang.org" targer="_blank">Typescript</a> and <a href="https:/nodejs.org" targer="_blank">NodeJS</a>.</h6>
-  <h6 style="margin-top: -34px; font-size: 10px;" align="center">I'm <strong>19</strong> year old.</h6>
+    <a href="#">
+        <img src="https://cdn.discordapp.com/attachments/861368716930318346/891396237440462908/edzz.gif">
+    </a>
 </p>
 
-------------
+<p align="center">
+    <a href="https://discordapp.com/users/228494142236393472" target="blank_">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-Lentokone%237605-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20?color=000'">
+    </a>  
+    <a href="https://github.com/Aik-10" target="blank_">
+        <img alt="Github" src="https://img.shields.io/github/followers/Aik-10?color=000&logo=github&label=Followers&logoColor=7289DA&style=for-the-badge" />
+   </a>  
+    <a href="https://discord.gg/hellcityrp" target="blank_">
+        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
+   </a>  
+    <a href="https://www.twitch.tv/ientokone" target="blank_">
+        <img alt="HC-Discord" src="https://img.shields.io/twitch/status/ientokone?color=000&label=Ientokone&logo=twitch&logoColor=7289DA&style=for-the-badge" />
+   </a>  
+</p>
+
+<hr />
+
+<h3 align="center">Hey 👋🏽, I'm <a href="#" targer="_blank">Samuel</a>!</h3>
+<h6 style="margin-top: -14px; font-size: 12px;" align="center">A Full Stack Developer from Finland, currently, I'm a️ Freelancer.</h6>
+
+<hr />
+
+<h3 align="center">Languages and Tools.</h3>
+<p align="center">
+    <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA"></a> 
+    <img alt="Javascript" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA"></a> 
+</p>
 
 
-<h3 align="center" style="margin-top: -42px;">
-    <span style="font-family: 'Lucida Console';">Activity</span>
-</h3>
-
-<div style="display: flex; margin-top: -32px;">
-    <a href="https://github.com/aik-10">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lentokone&hide_border=true&theme=vue&title_color=#FFFFFF" />
-    </a>
-    <a href="https://github.com/aik-10">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aik-10&layout=full&hide_border=true&theme=vue&title_color=#FFFFFF" />
-    </a>
-</div>
-
-<h3 align="center" style="margin-top: -52px;">
-  <span style="font-family: 'Lucida Console';">Languages and Tools</span>
-
-  <p align="center" style="display: flex;margin: auto;width: 70%;">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-    <img style="margin-left: 7px;" height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-    <img style="margin-left: 7px;" height="40" src="https://git-scm.com/images/logos/downloads/Git-Logo-Black.png">
-    <img style="margin-left: 7px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-    <img style="margin-left: 7px;" height="40" src="https://malcoded.com/static/e5619b75c39bc5034c7c9ef9c8d8c42e/ba299/Typescript.png">
-    <img style="margin-left: 7px;" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
-    <img style="margin-left: 7px;" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png">
-  </p>
-</h3>
-
-------------
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AIK-10" alt="aik-10" /></p>
+<h3 align="center">My Personal Stastictics.</h3>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Aik-10&theme=tokyonight_duo&hide_border=true"/>
+    <hr />
+    <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
+</p>
