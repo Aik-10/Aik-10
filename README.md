@@ -16,8 +16,12 @@
    </a>  
     <a href="https://www.twitch.tv/ientokone" target="blank_">
         <img alt="HC-Discord" src="https://img.shields.io/twitch/status/ientokone?color=000&label=Ientokone&logo=twitch&logoColor=7289DA&style=for-the-badge" />
-   </a>  
+   </a>
 </p>
+
+<div align="center">
+    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=AIK-10&style=flat-square&color=lightgrey" alt="aik-10" />
+</div>
 
 <hr />
 
@@ -48,3 +52,4 @@
     <hr />
     <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
 </p>
+
