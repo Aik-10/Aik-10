@@ -24,13 +24,14 @@
 </div>
 
 <hr />
-
-<h3 align="center">Hey 👋🏽, I'm <a href="#" targer="_blank">Samuel</a>!</h3>
-<h6 style="margin-top: -14px; font-size: 12px;" align="center">A Full Stack Developer from Finland, currently, I'm a️ Freelancer.</h6>
-
+<div aling="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=%237289DA&size=40&center=true&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Samuel!;A+Full+Stack+Developer+from+Finland%2C+currently%2C+I'm+a%EF%B8%8F+Freelancer.)](https://git.io/typing-svg)
+    
+</div>
 <hr />
 
-<h3 align="center">Languages and Tools.</h3>
+<h3 align="center">Languages and Tools :100:</h3>
 <p align="center">
     <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA"></a> 
     <img alt="Javascript" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA"></a> 
@@ -46,10 +47,11 @@
 </p>
 
 
-<h3 align="center">My Personal Stastictics.</h3>
+<h3 align="center">My Personal Stastictics :airplane:</h3>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Aik-10&theme=tokyonight_duo&hide_border=true"/>
     <hr />
     <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
 </p>
+
 
