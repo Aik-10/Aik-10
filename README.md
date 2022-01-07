@@ -53,7 +53,7 @@
     <hr />
     <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
     <hr />
-    <img style="width:100%;" src="https://wakatime.com/share/@Lentokone/6e9698cc-e9a9-4ac7-bc0d-a3a33b7a7216.png" />
+    <img style="width:100%;" src="https://wakatime.com/share/@Lentokone/626a80f1-eca9-4690-8154-b3ded4ce5755.png" />
 </p>
 
 
