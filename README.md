@@ -10,10 +10,7 @@
     </a>  
     <a href="https://github.com/Aik-10" target="blank_">
         <img alt="Github" src="https://img.shields.io/github/followers/Aik-10?color=000&logo=github&label=Followers&logoColor=7289DA&style=for-the-badge" />
-   </a>  
-    <a href="https://discord.gg/hellcityrp" target="blank_">
-        <img alt="HC-Discord" src="https://img.shields.io/discord/423048662206119937?color=000&label=HELLCITY&logo=discord&logoColor=7289DA&style=for-the-badge" />
-   </a>  
+   </a>    
     <a href="https://www.twitch.tv/ientokone" target="blank_">
         <img alt="HC-Discord" src="https://img.shields.io/twitch/status/ientokone?color=000&label=Ientokone&logo=twitch&logoColor=7289DA&style=for-the-badge" />
    </a>
