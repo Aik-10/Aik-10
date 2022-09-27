@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="https://cdn.discordapp.com/attachments/861368716930318346/891396237440462908/edzz.gif">
+        <img src="./public/plane.gif">
     </a>
 </p>
 
@@ -23,8 +23,8 @@
 <hr />
 <div aling="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=%237289DA&size=40&center=true&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Samuel!;A+Full+Stack+Developer+from+Finland%2C+currently%2C+I'm+a%EF%B8%8F+Freelancer.)](https://git.io/typing-svg)
-    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=7289DADA&center=true&vCenter=true&width=1920&height=150&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Samuel!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
+
 </div>
 <hr />
 
@@ -45,12 +45,14 @@
 
 
 <h3 align="center">My Personal Stastictics :airplane:</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Aik-10&theme=tokyonight_duo&hide_border=true"/>
-    <hr />
-    <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
-    <hr />
-    <img style="width:100%;" src="https://wakatime.com/share/@Lentokone/626a80f1-eca9-4690-8154-b3ded4ce5755.png" />
-</p>
 
+<hr />
+<div aling="center">
 
+[![Languages](https://wakatime.com/share/@Lentokone/016a965e-dbee-40db-b148-dc74a85f39d9.svg)](https://github.com/Aik-10)
+
+<hr />
+
+[![Code Activity](https://wakatime.com/share/@Lentokone/6f08306a-882f-411b-a636-e3eafec8f9bb.svg)](https://github.com/Aik-10)
+
+</div>
