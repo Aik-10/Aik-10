@@ -14,11 +14,10 @@
     <a href="https://www.twitch.tv/ientokone" target="blank_">
         <img alt="HC-Discord" src="https://img.shields.io/twitch/status/ientokone?color=000&label=Ientokone&logo=twitch&logoColor=7289DA&style=for-the-badge" />
    </a>
+   <a>
+        <img width="180" height="28" src="https://komarev.com/ghpvc/?username=AIK-10&style=for-the-badge&color=7289DA" alt="aik-10" />
+   </a>
 </p>
-
-<div align="center">
-    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=AIK-10&style=flat-square&color=lightgrey" alt="aik-10" />
-</div>
 
 <hr />
 <div aling="center">
@@ -30,17 +29,17 @@
 
 <h3 align="center">Languages and Tools :100:</h3>
 <p align="center">
-    <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA"></a> 
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=7289DA" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=7289DA" />
+    <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=7289DA" />
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=7289DA" />
+    <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=7289DA" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA" />
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA" />
+    <img alt="Wordpress" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA" />
 </p>
 
 
