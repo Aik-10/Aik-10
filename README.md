@@ -22,7 +22,7 @@
 <hr />
 <div aling="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Lentokone!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Lentokone!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
 
 </div>
 <hr />
@@ -48,13 +48,10 @@
 <hr />
 <div aling="center">
 
-[![Languages](https://wakatime.com/share/@Lentokone/016a965e-dbee-40db-b148-dc74a85f39d9.svg)](https://github.com/Aik-10)
+[![Languages](https://wakatime.com/share/@Lentokone/4d24158e-fdf6-41c5-92fb-dba3cb7e6023.svg)](https://github.com/Aik-10)
 
 <hr />
 
-[![Code Activity](https://wakatime.com/share/@Lentokone/6f08306a-882f-411b-a636-e3eafec8f9bb.svg)](https://github.com/Aik-10)
+[![Github Statistic](./profile-3d-contrib/profile-night-view.svg)](https://github.com/Aik-10)
 
 </div>
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
