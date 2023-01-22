@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="https://cdn.discordapp.com/attachments/861368716930318346/891396237440462908/edzz.gif">
+        <img src="./public/plane.gif">
     </a>
 </p>
 
@@ -14,43 +14,44 @@
     <a href="https://www.twitch.tv/ientokone" target="blank_">
         <img alt="HC-Discord" src="https://img.shields.io/twitch/status/ientokone?color=000&label=Ientokone&logo=twitch&logoColor=7289DA&style=for-the-badge" />
    </a>
+   <a>
+        <img width="180" height="28" src="https://komarev.com/ghpvc/?username=AIK-10&style=for-the-badge&color=7289DA" alt="aik-10" />
+   </a>
 </p>
-
-<div align="center">
-    <img width="200" height="30" src="https://komarev.com/ghpvc/?username=AIK-10&style=flat-square&color=lightgrey" alt="aik-10" />
-</div>
 
 <hr />
 <div aling="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&color=%237289DA&size=40&center=true&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Samuel!;A+Full+Stack+Developer+from+Finland%2C+currently%2C+I'm+a%EF%B8%8F+Freelancer.)](https://git.io/typing-svg)
-    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Lentokone!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
+
 </div>
 <hr />
 
 <h3 align="center">Languages and Tools :100:</h3>
 <p align="center">
-    <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA"></a> 
-    <img alt="Javascript" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA"></a> 
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript&logoColor=7289DA" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=7289DA" />
+    <img alt="Javascript" src="https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=7289DA" />
+    <img alt="Lua" src="https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=Lua&logoColor=7289DA" />
+    <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=7289DA" />
+    <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-black?style=for-the-badge&logo=Mysql&logoColor=7289DA" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=7289DA" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA" />
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA" />
+    <img alt="Wordpress" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA" />
 </p>
 
 
 <h3 align="center">My Personal Stastictics :airplane:</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Aik-10&theme=tokyonight_duo&hide_border=true"/>
-    <hr />
-    <img src="https://activity-graph.herokuapp.com/graph/?username=aik-10&bg_color=transaparent&color=7289DA&hide_border=true&line=ffffff" />
-    <hr />
-    <img style="width:100%;" src="https://wakatime.com/share/@Lentokone/626a80f1-eca9-4690-8154-b3ded4ce5755.png" />
-</p>
 
+<hr />
+<div aling="center">
 
+[![Languages](https://wakatime.com/share/@Lentokone/4d24158e-fdf6-41c5-92fb-dba3cb7e6023.svg)](https://github.com/Aik-10)
+
+<hr />
+
+[![Github Statistic](./profile-3d-contrib/profile-night-view.svg)](https://github.com/Aik-10)
+
+</div>
