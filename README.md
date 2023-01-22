@@ -22,7 +22,7 @@
 <hr />
 <div aling="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=7289DADA&center=true&vCenter=true&width=1920&height=150&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Samuel!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia&pause=1000&color=7289DADA&center=true&vCenter=true&size=40&width=1920&height=100&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Lentokone!;A+Full+Stack+Web+Developer+from+Finland+%F0%9F%94%A5;Currently+I'm+a+working+Backend+%E2%9C%A8)](https://github.com/Aik-10)
 
 </div>
 <hr />
