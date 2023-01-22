@@ -55,3 +55,6 @@
 [![Code Activity](https://wakatime.com/share/@Lentokone/6f08306a-882f-411b-a636-e3eafec8f9bb.svg)](https://github.com/Aik-10)
 
 </div>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
