@@ -40,6 +40,8 @@
     <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=7289DA" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel&logoColor=7289DA" />
     <img alt="Wordpress" src="https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress&logoColor=7289DA" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=7289DA" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=7289DA" />
 </p>
 
 
