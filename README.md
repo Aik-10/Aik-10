@@ -45,12 +45,13 @@
 </p>
 
 
-<h3 align="center">My Personal Stastictics :airplane:</h3>
+<h3 align="center">My coding activity :airplane:</h3>
 
 <hr />
 <div aling="center">
+    
+[![Github asd](https://wakatime.com/share/@Lentokone/a97303c7-337b-4a62-b8c9-0cef28e16b29.svg)](https://github.com/Aik-10)
 
-[![Languages](https://wakatime.com/share/@Lentokone/4d24158e-fdf6-41c5-92fb-dba3cb7e6023.svg)](https://github.com/Aik-10)
 
 <hr />
 
