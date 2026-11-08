@@ -43,18 +43,3 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=7289DA" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=7289DA" />
 </p>
-
-
-<h3 align="center">My coding activity :airplane:</h3>
-
-<hr />
-<div aling="center">
-    
-[![Github asd](https://wakatime.com/share/@Lentokone/a97303c7-337b-4a62-b8c9-0cef28e16b29.svg)](https://github.com/Aik-10)
-
-
-<hr />
-
-[![Github Statistic](./profile-3d-contrib/profile-night-view.svg)](https://github.com/Aik-10)
-
-</div>
